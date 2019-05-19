@@ -1,0 +1,208 @@
+body{
+	padding:0;
+	margin:0;
+}
+img{
+	border:none;
+}
+h1{
+	margin:0;
+	padding:0;
+	color:#1C72ED;
+	font-size:6vw;
+}/*film*/
+h2{
+	margin:0;
+	padding:0;
+	color:#00BA66;
+	font-size:5vw;
+}/*item*/
+h5{
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	font-size:3vw;
+}/*mail item*/
+#headlogo{
+	width:9%;
+	float:left;
+	align:center;
+}
+#headlogo img{
+	width:66%;
+	padding-top:2vw;
+	padding-left:3vw;
+	padding-bottom:1vw;
+}
+#nav{
+	background-color:white;
+	width:80%;
+	padding-top:2vw;
+	padding-bottom:1vw;
+}
+#nav ul{
+	margin: 0 0 0 1vw;
+	padding:0vw;
+	font-size:2vw;
+	color:black;
+	line-height:6vw;
+	white-space: nowrap;
+}
+#nav li{
+	list-style-type:none;
+	display:inline;
+}
+#nav li a{
+	text-decoration:none;
+	font-family:SimSun, STZhongsong, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+	padding: 2vw 0vw 0vw 4vw;
+	font-weight:bold;
+	color:black;
+}
+#nav li a:hover {
+	color:gray;
+	background-color:white;
+}
+#banner{
+	padding-left:1.5vw;
+	padding-right:1.5vw;
+}
+#bannerimg0{
+	background-image:url(../images/mobbanner.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-size: cover;
+	width:100%;
+	height:130vw;
+}
+#bannerimg{
+	background-image:url(../images/mobbanner.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-size: cover;
+	width:100%;
+	height:70vw;
+}
+.blank6{
+	background-color:#EFEFEF;
+	width:100%;
+	height:6vw;
+}
+.blank1{
+	background-color:#EFEFEF;
+	width:100%;
+	height:1vw;
+}
+.mobblank0{
+	background-color:#EFEFEF;
+	width:100%;
+	height:1vw;
+}
+.mobblank{
+	background-color:white;
+	width:100%;
+	height:3vw;
+}
+.blank{
+	background-color:white;
+	width:100%;
+	height:3vw;
+}
+.verblank{
+	width:10%;
+	float:left;
+	background-color:white;
+}
+.block{
+	margin:0 auto;
+	width:90%;
+	background-color:#EFEFEF;
+}
+#b1{
+	width:100%;
+	background-color:white;
+}
+#b2{
+	width:100%;
+	background-color:white;
+}
+#b3{
+	width:100%;	
+	background-color:white;
+}
+#b4{
+	width:100%;
+	background-color:white;
+}
+#imgdown{
+	padding-top:2vw;
+}
+#text0{
+	background-color:#EFEFEF;
+}
+#text0 p{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+}
+#text{
+	background-color:white;
+}
+#text p{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+}
+#foot{
+	background-color:#323E4C;
+}
+#footdevwidth{
+	margin:0 auto;
+	width:100%;
+}
+#foot p{
+	font-family:SimSun, STZhongsong, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+	text-align:center;
+}
+#filmwidth{
+	margin:0 auto;
+	width:80%;
+}
+.text0p{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+}
+.text0in{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:2vw;
+}
+.edublank{
+	background-color:white;
+}
+.edu1{
+	background-color:white;
+}
+.edu2{
+	background-color:white;
+}
+.edu3{
+	background-color:white;
+}
+.mailleft{
+	width:25%;
+	float:left;
+	background-color:white;
+}
+.mailright{
+	width:65%;
+	float:left;
+	background-color:white;
+}
+.mailp{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+}
+.mailitemlogo{
+	width:10%;
+	float:left;
+}

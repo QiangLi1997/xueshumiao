@@ -1,0 +1,224 @@
+body{
+	padding:0;
+	margin:0;
+}
+img{
+	border:none;
+}
+h1{
+	margin:0;
+	padding:0;
+	color:#1C72ED;
+	font-size:3vw;
+}/*film*/
+h2{
+	margin:0;
+	padding:0;
+	color:#00BA66;
+	font-size:2.5vw;
+}/*item*/
+h5{
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	font-size:1.5vw;
+}/*mail item*/
+#headlogo{
+	width:30%;
+	float:left;
+}
+#headlogo img{
+	width:8%;
+	float:right;
+	padding-top:0.5vw;
+	padding-bottom:0.5vw;
+}
+#nav{
+	background-color:white;
+	width:60%;
+	padding-top:0.6vw;
+	padding-bottom:0.4vw
+}
+#nav ul{
+	margin: 0 0 0 3vw;
+	padding: 0vw;
+	font-size: 1vw;
+	color:black;
+	line-height: 2vw;
+	white-space: nowrap;
+}
+#nav li{
+	list-style-type:none;
+	display:inline;
+}
+#nav li a{
+	text-decoration:none;
+	font-family:SimSun, STZhongsong, KaiTi_GB2312, Microsoft YaHei;
+	font-size:1vw;
+	padding: 1vw 0vw 0vw 4vw;
+	font-weight:bold;
+	color:black;
+}
+#nav li a:hover {
+	color:gray;
+	background-color:white;
+}
+#banner{
+	padding-left:1.5vw;
+	padding-right:1.5vw;
+}
+#bannerimg0{
+	background-image:url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-size:cover;
+	width:100%;
+	height:36vw;
+}
+#bannerimg{
+	background-image:url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-size:cover;
+	width:100%;
+	height:24vw;
+}
+.blank6{
+	background-color:#EFEFEF;
+	width:100%;
+	height:6vw;
+}
+.blank1{
+	background-color:#EFEFEF;
+	width:100%;
+	height:1vw;
+}
+.mobblank0{
+	background-color:#EFEFEF;
+	width:0%;
+	height:0vw;
+}
+.mobblank{
+	background-color:white;
+	width:0%;
+	height:0vw;
+}
+.blank{
+	background-color:white;
+	width:100%;
+	height:3vw;
+}
+.verblank{
+	width:10%;
+	float:left;
+	background-color:white;
+}
+.block{
+	margin:0 auto;
+	width:60%;
+	background-color:#EFEFEF;
+}
+#b1{
+	width:66%;
+	float:left;
+	background-color:white;
+}
+#b2{
+	width:33%;
+	float:right;
+	background-color:white;
+}
+#b3{
+	width:33%;
+	float:left;
+	background-color:white;
+}
+#b4{
+	width:66%;
+	float:right;
+	background-color:white;
+}
+#imgdown{
+	padding-top:2vw;
+}
+#text0{
+	background-color:#EFEFEF;
+}
+#text0 p{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:1vw;
+}
+#text{
+	background-color:white;
+}
+#text p{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:1vw;
+}
+#foot{
+	background-color:#323E4C;
+}
+#footdevwidth{
+	margin:0 auto;
+	width:40%;
+}
+#foot p{
+	font-family:SimSun, STZhongsong, KaiTi_GB2312, Microsoft YaHei;
+	font-size:1vw;
+	text-align:center;
+}
+#filmwidth{
+	margin:0 auto;
+	width:60%;
+}
+.text0p{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:1vw;
+}
+.text0in{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:0.8vw;
+}
+.edublank{
+	width:5%;
+	float:left;
+	background-color:white;
+}
+.edu1{
+	width:29%;
+	float:left;
+	background-color:white;
+}
+.edu2{
+	width:30%;
+	float:left;
+	background-color:white;
+}
+.edu3{
+	width:29%;
+	float:left;
+	background-color:white;
+}
+.mailitem{
+	width:33%;
+	float:left;
+	background-color:white;
+}
+.mailleft{
+	width:25%;
+	float:left;
+	background-color:white;
+}
+.mailright{
+	width:65%;
+	float:left;
+	background-color:white;
+}
+.mailp{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:1vw;
+}
+.mailitemlogo{
+	width:4%;
+	float:left;
+}
