@@ -1,2 +1,2 @@
 # xueshumiao
-HTML code for http://www.xueshumiao.com
+HTML codes for http://www.xueshumiao.com
