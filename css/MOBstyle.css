@@ -1,3 +1,6 @@
+/*************************************************************/
+/**************************global*****************************/
+/*************************************************************/
 body{
 	padding:0;
 	margin:0;
@@ -23,6 +26,9 @@ h5{
 	font-weight:normal;
 	font-size:3vw;
 }/*mail item*/
+/*************************************************************/
+/***************************head******************************/
+/*************************************************************/
 #headlogo{
 	width:9%;
 	float:left;
@@ -64,12 +70,23 @@ h5{
 	color:gray;
 	background-color:white;
 }
+/*************************************************************/
+/**************************banner*****************************/
+/*************************************************************/
 #banner{
 	padding-left:1.5vw;
 	padding-right:1.5vw;
 }
 #bannerimg0{
 	background-image:url(../images/mobbanner.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-size: cover;
+	width:100%;
+	height:130vw;
+}
+#bannerimg1{
+	background-image:url(../images/banner1mob.jpg);
 	background-repeat: no-repeat;
 	background-position:center center;
 	background-size: cover;
@@ -84,6 +101,270 @@ h5{
 	width:100%;
 	height:70vw;
 }
+/*************************************************************/
+/***************************text******************************/
+/*************************************************************/
+.text0{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+	text-align:center;
+}
+.text1{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:4.5vw;
+	text-align:center;
+}
+.text2{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3.5vw;
+	text-align:center;
+}
+.text3{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:2.5vw;
+	text-align:center;
+}
+.text4{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:2vw;
+	text-align:center;
+}
+/*************************************************************/
+/***************************foot******************************/
+/*************************************************************/
+#foot{
+	background-color:#323E4C;
+}
+#footdevwidth{
+	margin:0 auto;
+	width:100%;
+}
+#foot p{
+	font-family:SimSun, STZhongsong, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+	text-align:center;
+}
+/*************************************************************/
+/************************indexblock***************************/
+/*************************************************************/
+#indexb1{
+	width:100%;
+	background-color:white;
+}
+#indexb1img{
+	background:url(../images/index1mob.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:79vw;
+}
+#indexb2{
+	width:100%;
+	background-color:white;
+}
+#indexb2img{
+	background:url(../images/index2.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:79vw;
+}
+#indexb3{
+	width:100%;	
+	background-color:white;
+}
+#indexb3img{
+	background:url(../images/index3mob.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:79vw;
+}
+#indexb4{
+	width:100%;
+	background-color:white;
+}
+#indexb4img{
+	background:url(../images/index4mob.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:79vw;
+}
+/*************************************************************/
+/*************************edublock****************************/
+/*************************************************************/
+#educhoose{
+	margin:0 auto;
+	width:38%;
+}
+#educhoosel{
+	folat:left;
+}
+#educhooseimg{
+	background:url(../images/educhoose.png);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:5vw;
+	height:5vw;
+}
+#educhooser{
+	folat:left;
+}
+.edui{
+	width:100%;
+	height:90vw;
+	float:left;
+	background-color:white;
+}
+.eduw{
+	display:none;
+}
+.edumw{
+	width:90%;
+	margin:0 auto;
+	background-color:white;
+}
+.edupcblockfirst{
+	width:100%;
+	height:14vw;
+}
+.edupcblock{
+	width:100%;
+	height:17vw;
+}
+#edub1img{
+	background:url(../images/edu1.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub2img{
+	background:url(../images/edu2.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub3img{
+	background:url(../images/edu3.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub4img{
+	background:url(../images/edu4.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub5img{
+	background:url(../images/edu5.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub6img{
+	background:url(../images/edu6.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub7img{
+	background:url(../images/edu7.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub8img{
+	background:url(../images/edu8.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub9img{
+	background:url(../images/edu9.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub10img{
+	background:url(../images/edu10.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub11img{
+	background:url(../images/edu11.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub12img{
+	background:url(../images/edu12.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+/*************************************************************/
+/***************************film******************************/
+/*************************************************************/
+#filmwidth{
+	margin:0 auto;
+	width:80%;
+}
+/*************************************************************/
+/***************************mail******************************/
+/*************************************************************/
+.mailleft{
+	width:25%;
+	float:left;
+	background-color:white;
+}
+.mailright{
+	width:65%;
+	float:left;
+	background-color:white;
+}
+.mailp{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:3vw;
+}
+.mailitemlogo{
+	width:10%;
+	float:left;
+}
+/*************************************************************/
+/***************************class*****************************/
+/*************************************************************/
 .blank6{
 	background-color:#EFEFEF;
 	width:100%;
@@ -119,94 +400,12 @@ h5{
 	width:90%;
 	background-color:#EFEFEF;
 }
-#b1{
-	width:100%;
-	background-color:white;
-}
-#b1img{
-	background:url(../images/index1mob.jpg);
-	background-repeat: no-repeat;
-	background-position:center center;	
-	background-size:cover;
-	width:100%;
-	height:79vw;
-}
-#b2{
-	width:100%;
-	background-color:white;
-}
-#b2img{
-	background:url(../images/index2.jpg);
-	background-repeat: no-repeat;
-	background-position:center center;	
-	background-size:cover;
-	width:100%;
-	height:79vw;
-}
-#b3{
-	width:100%;	
-	background-color:white;
-}
-#b3img{
-	background:url(../images/index3mob.jpg);
-	background-repeat: no-repeat;
-	background-position:center center;	
-	background-size:cover;
-	width:100%;
-	height:79vw;
-}
-#b4{
-	width:100%;
-	background-color:white;
-}
-#b4img{
-	background:url(../images/index4mob.jpg);
-	background-repeat: no-repeat;
-	background-position:center center;	
-	background-size:cover;
-	width:100%;
-	height:79vw;
-}
+/*************************************************************/
+/*************************deprecated**************************/
+/*************************************************************/
+/*
 #imgdown{
 	padding-top:2vw;
-}
-#text0{
-	background-color:#EFEFEF;
-}
-#text0 p{
-	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
-	font-size:3vw;
-}
-#text{
-	background-color:white;
-}
-#text p{
-	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
-	font-size:3vw;
-}
-#foot{
-	background-color:#323E4C;
-}
-#footdevwidth{
-	margin:0 auto;
-	width:100%;
-}
-#foot p{
-	font-family:SimSun, STZhongsong, KaiTi_GB2312, Microsoft YaHei;
-	font-size:3vw;
-	text-align:center;
-}
-#filmwidth{
-	margin:0 auto;
-	width:80%;
-}
-.text0p{
-	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
-	font-size:4.5vw;
-}
-.text0in{
-	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
-	font-size:3vw;
 }
 .edublank{
 	background-color:white;
@@ -219,22 +418,4 @@ h5{
 }
 .edu3{
 	background-color:white;
-}
-.mailleft{
-	width:25%;
-	float:left;
-	background-color:white;
-}
-.mailright{
-	width:65%;
-	float:left;
-	background-color:white;
-}
-.mailp{
-	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
-	font-size:3vw;
-}
-.mailitemlogo{
-	width:10%;
-	float:left;
-}
+}*/
