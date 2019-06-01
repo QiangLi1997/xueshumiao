@@ -30,7 +30,7 @@ h5{
 /***************************head******************************/
 /*************************************************************/
 #headlogo{
-	width:9%;
+	width:10%;
 	float:left;
 	align:center;
 }
@@ -43,13 +43,13 @@ h5{
 #nav{
 	background-color:white;
 	width:80%;
-	padding-top:2vw;
-	padding-bottom:1vw;
+	padding-top:3vw;
+	padding-bottom:2vw;
 }
 #nav ul{
 	margin: 0 0 0 1vw;
 	padding:0vw;
-	font-size:2vw;
+	font-size:3.5vw;
 	color:black;
 	line-height:6vw;
 	white-space: nowrap;
@@ -61,8 +61,8 @@ h5{
 #nav li a{
 	text-decoration:none;
 	font-family:SimSun, STZhongsong, KaiTi_GB2312, Microsoft YaHei;
-	font-size:3vw;
-	padding: 2vw 0vw 0vw 5vw;
+	font-size:3.5vw;
+	padding: 0vw 0vw 0vw 4.5vw;
 	font-weight:bold;
 	color:black;
 }
@@ -116,7 +116,7 @@ h5{
 }
 .text2{
 	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
-	font-size:3.5vw;
+	font-size:4.5vw;
 	text-align:center;
 }
 .text3{
@@ -126,7 +126,7 @@ h5{
 }
 .text4{
 	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
-	font-size:2vw;
+	font-size:3vw;
 	text-align:center;
 }
 /*************************************************************/
@@ -198,23 +198,21 @@ h5{
 /*************************************************************/
 /*************************edublock****************************/
 /*************************************************************/
-#educhoose{
-	margin:0 auto;
-	width:38%;
-}
-#educhoosel{
-	folat:left;
-}
 #educhooseimg{
 	background:url(../images/educhoose.png);
 	background-repeat: no-repeat;
 	background-position:center center;	
 	background-size:cover;
-	width:5vw;
-	height:5vw;
+	width:6vw;
+	height:6vw;
 }
-#educhooser{
-	folat:left;
+#eduboatimg{
+	background:url(../images/boat.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:60vw;
+	height:60vw;
 }
 .edui{
 	width:100%;
@@ -334,6 +332,22 @@ h5{
 	width:100%;
 	height:90vw;
 }
+#edub13img{
+	background:url(../images/edu13.png);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
+#edub14img{
+	background:url(../images/edu14.png);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:90vw;
+}
 /*************************************************************/
 /***************************film******************************/
 /*************************************************************/
@@ -399,6 +413,11 @@ h5{
 	margin:0 auto;
 	width:90%;
 	background-color:#EFEFEF;
+}
+.PCb{
+	display:none;
+}
+.MOBb{
 }
 /*************************************************************/
 /*************************deprecated**************************/
