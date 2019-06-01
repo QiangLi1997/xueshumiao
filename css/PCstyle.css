@@ -205,13 +205,6 @@ h5{
 /*************************************************************/
 /*************************edublock****************************/
 /*************************************************************/
-#educhoose{
-	margin:0 auto;
-	width:32%;
-}
-#educhoosel{
-	folat:left;
-}
 #educhooseimg{
 	background:url(../images/educhoose.png);
 	background-repeat: no-repeat;
@@ -220,8 +213,7 @@ h5{
 	width:3vw;
 	height:3vw;
 }
-#educhooser{
-	folat:left;
+#eduboatimg{
 }
 .edui{
 	width:50%;
@@ -342,6 +334,22 @@ h5{
 	width:100%;
 	height:30vw;
 }
+#edub13img{
+	background:url(../images/edu13.png);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:30vw;
+}
+#edub14img{
+	background:url(../images/edu14.png);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:30vw;
+}
 /*************************************************************/
 /***************************film******************************/
 /*************************************************************/
@@ -412,6 +420,11 @@ h5{
 	margin:0 auto;
 	width:60%;
 	background-color:#EFEFEF;
+}
+.PCb{
+}
+.MOBb{
+	display:none;
 }
 /*************************************************************/
 /*************************deprecated**************************/
