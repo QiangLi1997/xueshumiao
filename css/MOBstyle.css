@@ -93,6 +93,22 @@ h5{
 	width:100%;
 	height:130vw;
 }
+#bannerimg2{
+	background-image:url(../images/banner2mob.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-size: cover;
+	width:100%;
+	height:130vw;
+}
+#bannerimg3{
+	background-image:url(../images/banner3mob.jpg);
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-size: cover;
+	width:100%;
+	height:130vw;
+}
 #bannerimg{
 	background-image:url(../images/mobbanner.jpg);
 	background-repeat: no-repeat;
@@ -127,6 +143,21 @@ h5{
 .text4{
 	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
 	font-size:3vw;
+	text-align:center;
+}
+.text5{
+	font-family: KaiTi_GB2312, STZhongsong, SimSun, Microsoft YaHei;
+	font-size:4.5vw;
+	text-align:center;
+}
+.text6{
+	font-family: KaiTi_GB2312, STZhongsong, SimSun, Microsoft YaHei;
+	font-size:4vw;
+	text-align:center;
+}
+.text7{
+	font-family: STZhongsong, SimSun, KaiTi_GB2312, Microsoft YaHei;
+	font-size:2vw;
 	text-align:center;
 }
 /*************************************************************/
@@ -358,6 +389,14 @@ h5{
 /*************************************************************/
 /***************************mail******************************/
 /*************************************************************/
+#mailimg{
+	background:url(../images/mailmob.png);
+	background-repeat: no-repeat;
+	background-position:center center;	
+	background-size:cover;
+	width:100%;
+	height:140vw;
+}
 .mailleft{
 	width:25%;
 	float:left;
